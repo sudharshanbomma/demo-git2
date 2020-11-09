@@ -1,4 +1,8 @@
 mumbai indians
 chennai superkings
+<<<<<<< HEAD
 
 rajasthan rayals
+=======
+punjab varriers
+>>>>>>> 1c45e3794034d2f3a76cb2a42fd0e64a1bb26035
