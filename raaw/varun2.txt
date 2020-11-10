@@ -1,2 +1,0 @@
-this is demo for mv
-this is practice for git mv"
