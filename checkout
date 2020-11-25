@@ -1,13 +1,13 @@
 node('slave-demo-1'){
-	stage("checkout"){
+     stage("checkout"){
 
-	}
+     }
 	
-	stage("checking file"){
-		  sh """
-			ls -la
-			echo "this is scriptted pipeline job" > slave.txt
-		  """
-		  sh "ls -larth"
-	}
+     stage("checking file"){
+           sh """
+           ls -la
+           echo "this is scriptted pipeline job" > slave.txt
+	   """
+	   sh "ls -larth"
+     }
 }
